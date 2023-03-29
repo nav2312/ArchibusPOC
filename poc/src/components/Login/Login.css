@@ -71,4 +71,12 @@ input[type="submit"]:hover {
   justify-content: center;
   font-size: calc(8px + 2vmin);
   color: white;
+  width: 50%;
+  margin: 0 auto;
+}
+.app {
+  width: 50%;
+  margin: 0 auto;
+  margin-top: 13%;
+  margin-bottom: 14%;
 }
